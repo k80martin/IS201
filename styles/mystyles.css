@@ -1,0 +1,46 @@
+
+h1{
+    color: rgb(80, 122, 96);
+}
+
+img{
+    width:75%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+p{
+    font-style: bold;
+    text-align: center
+}
+
+h2{
+    text-align:inherit;
+    font-size: larger;
+    line-height:20pt;
+}
+
+.resumeText{
+    color: black;
+    font-style: italic;
+}
+
+h3{
+   font-size:14pt; 
+   font-style:normal;
+
+}
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+a{
+    color: rgb(80, 122, 96);
+}
+
+.btn{
+    background-color: rgb(80, 122, 96);
+}
